@@ -4,14 +4,14 @@ FECHA: 03/03/2026
 
 Datos:
 
-Estudiante: Aarón
+Estudiante: Aarón Veloz
 
-Asignatura: Programación
+Asignatura: LOGICA DE PROGRAMACION
 
 Proyecto: Juego del Ahorcado en Python
 
 
-Objetivo del programa
+OBJETIVO DEL PROGRAMA
 
 El objetivo de este proyecto es desarrollar una versión del juego clásico Ahorcado utilizando el lenguaje de programación Python.
 El programa permite que el jugador adivine una palabra secreta letra por letra, teniendo un número limitado de intentos.
