@@ -33,13 +33,13 @@ Inicialización del juego
 
 Cuando comienza una nueva partida, el programa inicializa las variables necesarias como:
 
-la palabra oculta
+-la palabra oculta
 
-las letras adivinadas
+-las letras adivinadas
 
-las letras incorrectas
+-las letras incorrectas
 
-los intentos restantes
+-los intentos restantes
 
 Estas variables permiten controlar el estado del juego.
 
@@ -47,13 +47,13 @@ Interfaz del juego
 
 Durante cada turno, el programa muestra en pantalla:
 
-el dibujo del ahorcado según los intentos restantes
+-el dibujo del ahorcado según los intentos restantes
 
-la palabra oculta
+-la palabra oculta
 
-las letras incorrectas
+-las letras incorrectas
 
-el número de intentos disponibles
+-el número de intentos disponibles
 
 Esto permite al jugador visualizar su progreso durante el juego.
 
@@ -70,9 +70,9 @@ Verificación de victoria o derrota
 
 Después de cada intento el programa verifica dos condiciones:
 
-Si el jugador ha completado la palabra (victoria).
+-Si el jugador ha completado la palabra (victoria).
 
-Si el jugador se quedó sin intentos (derrota).
+-Si el jugador se quedó sin intentos (derrota).
 
 En ambos casos el programa muestra el resultado de la partida.
 
