@@ -5,7 +5,9 @@ FECHA: 03/03/2026
 Datos:
 
 Estudiante: Aarón
+
 Asignatura: Programación
+
 Proyecto: Juego del Ahorcado en Python
 
 
